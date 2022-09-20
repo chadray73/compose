@@ -2,3 +2,4 @@ bin/
 dist/
 /.vscode/
 contrib/completion/.DS_Store
+.gitignore
